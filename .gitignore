@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / Build artifacts
+build/
+dist/
+*.manifest
+*.spec.bak
+
+# Executables
+*.exe
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Backups locais de banco de dados
+dados/backups/*.db
+
+# Relatorios gerados localmente (PDFs gerados em execucoes locais)
+relatorios/*.pdf
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporarios
+*.log
+scratch/
+
+# Scripts de automacao locais e exemplos
+*.bat
+COMPILAR_EXE.bat
+EXECUTAR.bat
+INSTALAR_E_EXECUTAR.bat
+exemplo_turmas.txt
+
